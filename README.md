@@ -8,7 +8,7 @@ T=0.1 #time-to-mmaturity
 sigma=0.2 #volatility
 r=0.05 #riskless short rate
 I=100000 #number of simulations
-##in Black-Scholes-Merton
+#in Black-Scholes-Merton
 #Monte Carlo valuation of European call option
 from numpy import *
 #Parameter Values
